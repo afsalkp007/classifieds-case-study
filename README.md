@@ -1,4 +1,4 @@
-# Essential App Case Study
+# Classifieds App Case Study
 
 
 
