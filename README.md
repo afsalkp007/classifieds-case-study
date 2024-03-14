@@ -173,7 +173,7 @@ Given the customer doesn't have connectivity
 
 ---
 
-### Cache Feed Image Data Use Case
+### Cache Classifieds Image Data Use Case
 
 #### Data:
 - Image Data
